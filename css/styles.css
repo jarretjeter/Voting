@@ -1,11 +1,23 @@
+body {
+  background-color: lavender;
+}
+
+h1 {
+  text-align: center;
+}
+
 #under18-msg {
   display: none;
 }
 
 .under18 {
-    display: none;
-  }
+  display: none;
+}
 
-  .over18 {
-    display: none;
-  }
+.over18 {
+  display: none;
+}
+
+.card {
+  background-color:azure;
+}
