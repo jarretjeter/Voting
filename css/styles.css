@@ -1,0 +1,11 @@
+#under18-msg {
+  display: none;
+}
+
+.under18 {
+    display: none;
+  }
+
+  .over18 {
+    display: none;
+  }
